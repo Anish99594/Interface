@@ -1,0 +1,37 @@
+.App {
+  margin: 20px;
+}
+
+.field {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.field-inputs {
+  display: flex;
+  align-items: center;
+}
+
+.field-input {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.field-select {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.nested-fields {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.field-buttons {
+  margin-left: auto;
+}
+
+.field-buttons button {
+  margin-left: 10px;
+}
